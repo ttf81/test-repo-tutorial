@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="D2L_6664" xmlns:d2l_2p0="http://desire2learn.com/xsd/d2lcp_v2p0" xmlns:scorm_1p2="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2">
+    <organizations default="d2l_orgs">
+        <organization identifier="d2l_org">
+            <item identifier="6232" identifierref="RES_CONTENT_6232" d2l_2p0:id="1" description="" completion_type="0">
+                <metadata>
+                    <lom xmlns:prefix0="http://purl.org/dc/elements/1.1/" xmlns:prefix1="http://nyplms.polite.edu.sg/metadata/terms/" xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1">
+                        <general>
+                            <catalogentry>
+                                <catalog>Catalog</catalog>
+                                <entry>
+                                    <langstring>1</langstring>
+                                </entry>
+                            </catalogentry>
+                            <title>
+                                <langstring> Crafting Data Storytelling Narratives</langstring>
+                            </title>
+                            <language>en</language>
+                            <description>
+                                <langstring>In this RLO, learners will be able to construct data-driven stories using the Situation-Complication-Resolution (SCR) framework to humanise data turning them into compelling, emotionally connected narratives.</langstring>
+                            </description>
+                            <keyword>
+                                <langstring>Data Storytelling, Storytelling, SCR Framework, Communication Skills</langstring>
+                            </keyword>
+                        </general>
+                        <lifecycle>
+                            <version>
+                                <langstring>1</langstring>
+                            </version>
+                            <status>
+                                <source>
+                                    <langstring>LOMv1.0</langstring>
+                                </source>
+                                <value>
+                                    <langstring>Final</langstring>
+                                </value>
+                            </status>
+                            <contribute>
+                                <role>
+                                    <value>
+                                        <langstring>publisher</langstring>
+                                    </value>
+                                </role>
+                                <centity>
+                                    <vcard><![CDATA[BEGIN:VCARD
+VERSION:3.0
+FN:PANG YEW HUAT CHRISTOPHER STF-SBM
+N:STF-SBM;PANG YEW HUAT CHRISTOPHER;;;
+ORG:Nanyang Polytechnic;Nanyang Polytechnic
+END:VCARD
+]]></vcard>
+                                </centity>
+                            </contribute>
+                        </lifecycle>
+                        <metametadata>
+                            <contribute>
+                                <role />
+                                <centity>
+                                    <vcard><![CDATA[BEGIN:VCARD
+VERSION:3.0
+FN:PANG YEW HUAT CHRISTOPHER STF-SBM
+N:PANG YEW HUAT CHRISTOPHER;STF-SBM;;;
+END:VCARD
+]]></vcard>
+                                </centity>
+                            </contribute>
+                            <metadatascheme>ADL SCORM 1.2</metadatascheme>
+                        </metametadata>
+                        <technical>
+                            <format>text/html</format>
+                            <format>application/x-javascript</format>
+                            <format>application/x-shockwave-flash</format>
+                            <format>text/css</format>
+                            <location type="TEXT">indexAPI.html</location>
+                        </technical>
+                        <rights>
+                            <cost>
+                                <source>
+                                    <langstring>LOMv1.0</langstring>
+                                </source>
+                                <value>
+                                    <langstring>yes</langstring>
+                                </value>
+                            </cost>
+                            <copyrightandotherrestrictions>
+                                <source>
+                                    <langstring>LOMv1.0</langstring>
+                                </source>
+                                <value>
+                                    <langstring>yes</langstring>
+                                </value>
+                            </copyrightandotherrestrictions>
+                            <description>
+                                <langstring>http://creativecommons.org/licenses//3.0//</langstring>
+                            </description>
+                        </rights>
+                        <classification>
+                            <purpose>
+                                <source>
+                                    <langstring>LOMv1.0</langstring>
+                                </source>
+                                <value>
+                                    <langstring>Educational Objective</langstring>
+                                </value>
+                            </purpose>
+                            <taxonpath>
+                                <source>
+                                    <langstring xml:lang="en">NYP RLO Taxonomy</langstring>
+                                </source>
+                                <taxon>
+                                    <id>Interpersonal and Communication Skills</id>
+                                    <taxon>
+                                        <entry>
+                                            <langstring xml:lang="en">Presentation and Pitching</langstring>
+                                        </entry>
+                                    </taxon>
+                                </taxon>
+                            </taxonpath>
+                            <description>
+                                <langstring>Description</langstring>
+                            </description>
+                            <keyword>
+                                <langstring>Training</langstring>
+                            </keyword>
+                        </classification>
+                        <prefix1:LifeCycle>
+                            <prefix1:Version>1.0</prefix1:Version>
+                        </prefix1:LifeCycle>
+                    </lom>
+                </metadata>
+                <title> Crafting Data Storytelling Narratives</title>
+                <scorm_1p2:maxtimeallowed />
+                <scorm_1p2:timelimitaction />
+                <scorm_1p2:datafromlms>eyJjcHYiOiJ6UEItNzdBOCIsInJsZCI6ZmFsc2V9</scorm_1p2:datafromlms>
+                <scorm_1p2:masteryscore />
+            </item>
+        </organization>
+    </organizations>
+    <resources>
+        <resource identifier="RES_CONTENT_6232" title="" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="scormdriver\indexAPI.html" scorm_1p2:scormtype="sco" />
+    </resources>
+</manifest>
